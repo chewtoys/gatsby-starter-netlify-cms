@@ -10,6 +10,4 @@ tags:
 ---
 d fsdf sdf s sdfsdfsdfsdfs 
 
-
-
-![](/img/fbstock2.png)
+![null](/img/fbstock2.png)
